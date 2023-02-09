@@ -1,9 +1,9 @@
 ---
-title: "Categories2"
+title: "Paper"
 layout: category
-permalink: /categories/categories2/
+permalink: /categories/Paper/
 author_profile: true
-taxonomy: Categories2
+taxonomy: Paper
 sidebar:
   nav: "categories"
 ---
