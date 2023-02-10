@@ -7,3 +7,4 @@ taxonomy: Python
 sidebar:
 nav: "categories"
 ---
+Python 프로그래밍을 공부하고 기록

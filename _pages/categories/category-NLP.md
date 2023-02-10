@@ -7,3 +7,4 @@ taxonomy: NLP
 sidebar:
   nav: "categories"
 ---
+NLP 관련 공부 기록

@@ -7,3 +7,4 @@ taxonomy: RecSys
 sidebar:
   nav: "categories"
 ---
+추천시스템관련 공부를 기록

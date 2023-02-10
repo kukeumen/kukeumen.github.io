@@ -7,3 +7,4 @@ taxonomy: Blog
 sidebar:
   nav: "categories"
 ---
+일상적인 것들을 기록
