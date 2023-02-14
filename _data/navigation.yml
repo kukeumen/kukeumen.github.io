@@ -18,18 +18,43 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Python"
-    url: /categories/Python/
-  - title: "Paper"
-    url: /categories/Paper
-  - title: "Machine Learning"
-    url: /categories/ML/
-  - title: "NLP"
-    url: /categories/NLP/
-  - title: "ComputerVision"
-    url: /categories/ComputerVision/
-  - title: "RecSys"
-    url: /categories/RecSys/
+  - title: "Study"
+    children:
+    - title: "Paper"
+      url: /categories/Paper
+    - title: "Linear Algebra"
+      url: /categories/Linear_Algebra/
+
+  - title: "Computer Science"
+    children:
+    - title: "Python"
+      url: /categories/Python/
+    - title: "Machine Learning"
+      url: /categories/Machine_Learning/
+    - title: "Data Analysis"
+      url: /categories/Data_Analysis/
+    - title: "Algorithm"
+      url: /categories/Algorithm/
+    - title: "Cloud"
+      url: /categories/Cloud/
+    - title: "JAVA"
+      url: /categories/Java/
+    - title: "C Language"
+      url: /categories/C_Language/
+    - title: "Unity"
+      url: /categories/Unity/
+  
+  - title: "Deep Learning"
+    - title: "NLP(Text)"
+      url: /categories/NLP/
+    - title: "Audio"
+      url: /categories/Audio/
+    - title: "ComputerVision"
+      url: /categories/ComputerVision/
+    - title: "RecSys"
+      url: /categories/RecSys/
+    - title: "DL Models"
+      url: /categories/DL_Models/
     
   - title: "Blog"
     children:
