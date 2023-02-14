@@ -4,7 +4,7 @@
 <div itemscope itemtype="https://schema.org/Person">
 
   {% if author.avatar %}
-    <div class="author__avatar" align="center">
+    <div class="author__avatar" align="center" width="270px">
       {% if author.home %}
         <a href="{{ author.home | relative_url }}">
           <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image">
