@@ -31,4 +31,12 @@ categories:
   - title: "RecSys"
     url: /categories/RecSys/
   - title: "Blog"
-    url: /categories/Blog/
+    children:
+      -title: "Book"
+       url: /categories/Book/
+      -title: "Essay"
+       url: /categories/Essay/
+      -title: "Activities"
+       url: /categories/Activities/
+      -title: "Blog"
+       url: /categories/Blog/
