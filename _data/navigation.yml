@@ -29,7 +29,7 @@ categories:
     children:
       - title: "Python"
         url: /categories/Python/
-      - title: "Machine Learning"
+      - title: "Machine_Learning"
         url: /categories/Machine_Learning/
       - title: "Data Analysis"
         url: /categories/Data_Analysis/
