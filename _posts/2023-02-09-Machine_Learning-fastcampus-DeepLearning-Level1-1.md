@@ -7,7 +7,7 @@ categories:
 tags:
   - [ML, DL, AI, fastcampus, lecture-note]
 
-permalink: /Machine_Learning/fastcampus-DeepLearning-Level1-1
+permalink: /Machine_Learning/fastcampus-DeepLearning-Level1-1/
 
 toc: true
 toc_sticky: true
