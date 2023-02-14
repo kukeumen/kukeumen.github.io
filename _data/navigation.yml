@@ -22,48 +22,67 @@ categories:
     children:
       - title: "Paper"
         url: /categories/Paper/
+        category: "Paper"
       - title: "Linear Algebra"
         url: /categories/Linear_Algebra/
+        category: "Linear_Algebra"
 
   - title: "Computer Science"
     children:
       - title: "Python"
         url: /categories/Python/
+        category: "Python"
       - title: "Machine_Learning"
         url: /categories/Machine_Learning/
+        category: "Machine_Learning"
       - title: "Data Analysis"
         url: /categories/Data_Analysis/
+        category: "Data_Analysis"
       - title: "Algorithm"
         url: /categories/Algorithm/
+        category: "Algorithm"
       - title: "Cloud"
         url: /categories/Cloud/
+        category: "Cloud"
       - title: "JAVA"
         url: /categories/Java/
-      - title: "C Language"
+        category: "Java"
+      - title: "C_Language"
         url: /categories/C_Language/
+        category: "C_Language"
       - title: "Unity"
         url: /categories/Unity/
+        category: "Unity"
   
   - title: "Deep Learning"
     children:
       - title: "NLP(Text)"
         url: /categories/NLP/
+        category: "NLP"
       - title: "Audio"
         url: /categories/Audio/
+        category: "Audio"
       - title: "ComputerVision"
         url: /categories/ComputerVision/
+        category: "ComputerVision"
       - title: "RecSys"
         url: /categories/RecSys/
+        category: "RecSys"
       - title: "DL Models"
         url: /categories/DL_Models/
+        category: "DL_Models"
     
   - title: "Blog"
     children:
       - title: "Book"
         url: /categories/Book/
+        category: "Book"
       - title: "Essay"
         url: /categories/Essay/
+        category: "Essay"
       - title: "Activities"
         url: /categories/Activities/
+        categroy: "Activities"
       - title: "Blog"
         url: /categories/Blog/
+        category: "Blog"
