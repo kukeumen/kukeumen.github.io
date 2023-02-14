@@ -21,7 +21,7 @@ categories:
   - title: "Study"
     children:
       - title: "Paper"
-        url: /categories/Paper
+        url: /categories/Paper/
       - title: "Linear Algebra"
         url: /categories/Linear_Algebra/
 
