@@ -3,7 +3,7 @@ title: "패스트캠퍼스 딥러닝 레벨원[0]"
 excerpt: "패스트캠퍼스 딥러닝 레벨원 : 왕초보도 만들 수 있는 16가지 인공지능 - OT"
 
 categories:
-  - MachineLearning
+  - Machine_Learning
 tags:
   - [ML, DL, AI, fastcampus, lecture-note]
 
