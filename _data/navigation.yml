@@ -45,6 +45,7 @@ categories:
       url: /categories/Unity/
   
   - title: "Deep Learning"
+    children:
     - title: "NLP(Text)"
       url: /categories/NLP/
     - title: "Audio"
