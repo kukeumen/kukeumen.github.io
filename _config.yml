@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name: "kukeumen" # 블로그 닉네임
-  avatar: "/assets/images/profile.jpg" # 블로그 프로필 사진
+  avatar: "/assets/images/meee.png" # 블로그 프로필 사진
   bio: "느리지만 꾸준히, 열심히."
   location: "Seoul, Korea"
   email: "seyoung3917@gmail.com"
