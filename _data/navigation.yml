@@ -30,13 +30,14 @@ categories:
     url: /categories/ComputerVision/
   - title: "RecSys"
     url: /categories/RecSys/
+    
   - title: "Blog"
     children:
-      -title: "Book"
-       url: /categories/Book/
-      -title: "Essay"
-       url: /categories/Essay/
-      -title: "Activities"
-       url: /categories/Activities/
-      -title: "Blog"
-       url: /categories/Blog/
+      - title: "Book"
+        url: /categories/Book/
+      - title: "Essay"
+        url: /categories/Essay/
+      - title: "Activities"
+        url: /categories/Activities/
+      - title: "Blog"
+        url: /categories/Blog/
