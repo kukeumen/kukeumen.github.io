@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT 리버스엔지니어링 프로젝트 첫번째 미팅"
-excerpt: "ChatGPT 리버스엔지니어링 프로젝트"
+excerpt: "ChatGPT 리버스엔지니어링 프로젝트-1"
 
 categories:
   - Activities
