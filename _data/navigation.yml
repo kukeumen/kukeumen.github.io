@@ -38,6 +38,9 @@ categories:
       - title: "Data Analysis"
         url: /categories/Data_Analysis/
         category: "Data_Analysis"
+      - title: "SQL"
+        url: /categories/SQL/
+        category: "SQL"
       - title: "Algorithm"
         url: /categories/Algorithm/
         category: "Algorithm"
